@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tooring-talkies/static/css/main.7a0c0066.css",
+    "main.js": "/tooring-talkies/static/js/main.a7626dfc.js",
+    "index.html": "/tooring-talkies/index.html",
+    "main.7a0c0066.css.map": "/tooring-talkies/static/css/main.7a0c0066.css.map",
+    "main.a7626dfc.js.map": "/tooring-talkies/static/js/main.a7626dfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a0c0066.css",
+    "static/js/main.a7626dfc.js"
+  ]
+}
